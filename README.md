@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## Screenshort
+![see here](https://raw.githubusercontent.com/asbaghel/ClaimCalculator/master/src/assets/Screenshot%20(61).png)
