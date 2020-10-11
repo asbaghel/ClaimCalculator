@@ -7,7 +7,7 @@
       <br />
       
     <label>
-    Enter room rent limit:
+     room rent limit:
     </label>
     <input v-model="rentLimit" />
      <button v-on:click="next()">Next</button>
@@ -15,13 +15,17 @@
      <div v-if="pageno===2" class="page">
     <label>
       
-      Enter Hospital room rent :
+       Hospital room rent :
+    </label>
+    <label>
+      
+       With/without A/C
     </label>
     <input v-model="actual_rent" />
     <br />
       <br />
     <label>
-     Enter total number of days in hospital:
+      total number of days in hospital:
     </label>
     <input v-model="numOfDays" />
      <br />
