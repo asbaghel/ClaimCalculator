@@ -17,6 +17,10 @@
       
        Hospital room rent :
     </label>
+    <label>
+      
+       With/without A/C
+    </label>
     <input v-model="actual_rent" />
     <br />
       <br />
