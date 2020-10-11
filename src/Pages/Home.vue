@@ -85,7 +85,7 @@ export default {
   margin: 100px;
 }
 .amt{
-  color:red ;
+  color:rgb(32, 6, 92) ;
   font-size: 30px;
 }
 label{
