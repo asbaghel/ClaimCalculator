@@ -19,7 +19,7 @@
     </label>
     <label>
       
-       With/without A/C
+       With A/C
     </label>
     <input v-model="actual_rent" />
     <br />
